@@ -1,0 +1,12 @@
+{
+  "name": "projeto-render",
+  "version": "1.0.0",
+  "description": "Projeto de teste Node.js para hospedagem no Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
